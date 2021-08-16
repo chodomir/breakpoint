@@ -1,0 +1,7 @@
+[15:55:03 12-Aug-2021] [localhost/index.php] [18] : [ERROR]  - [This is working]  [{"key":"value"}] 
+[16:01:34 12-Aug-2021] [localhost/index.php] [16] : [INFO]  - [This is working]  [{"key":"value"}] 
+[16:01:34 12-Aug-2021] [localhost/index.php] [17] : [WARNING]  - [This is working]  [{"key":"value"}] 
+[16:01:34 12-Aug-2021] [localhost/index.php] [18] : [ERROR]  - [This is working]  [{"key":"value"}] 
+[16:02:48 12-Aug-2021] [localhost/index.php] [16] : [INFO]  - [This is working]  [{"key":"value"}] 
+[16:02:48 12-Aug-2021] [localhost/index.php] [17] : [WARNING]  - [This is working]  [{"key":"value"}] 
+[16:02:48 12-Aug-2021] [localhost/index.php] [18] : [ERROR]  - [This is working]  [{"key":"value"}] 
